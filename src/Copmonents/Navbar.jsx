@@ -7,7 +7,7 @@ const Navbar = () => {
       <div className="flex items-center justify-between mycontainer py-3 text-gray-700">
         <img src='\Images\GMSlogo.png' alt='' className='h-15'/>
         <div className='flex items-center gap-4 lg:gap-8 max-md:hidden'>
-          <a href='#' className='text-lg text-gray-800 hover:text-black'>Home</a>
+          <a href='/hero' className='text-lg text-gray-800 hover:text-black'>Home</a>
           <a href='#' className='text-lg text-gray-800 hover:text-black'>Shop</a>
           <a href='#' className='text-lg text-gray-800 hover:text-black'>About Us</a>
           <a href='#' className='text-lg text-gray-800 hover:text-black'>Contact</a>

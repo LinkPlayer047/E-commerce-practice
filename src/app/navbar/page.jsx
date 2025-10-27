@@ -1,11 +1,10 @@
-
-import Home from '@/Copmonents/Home'
+import Navbar from '@/Copmonents/Navbar'
 import React from 'react'
 
 const page = () => {
   return (
     <div>
-      <Home />
+        <Navbar />
     </div>
   )
 }
