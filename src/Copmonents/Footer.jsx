@@ -22,7 +22,7 @@ const Footer = () => {
                         </ul>
                     </a>
                 </div>
-                <div className='w-full'>
+                <div className='w-full mt-5'>
                     <h2 className='text-lg text-black'>Get in touch</h2>
                     <ul>
                         <li className='text-gray-400 mt-3'>+92 328 4468 247</li>
