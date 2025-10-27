@@ -9,9 +9,9 @@ const Support = () => {
                 <p className='text-gray-400 text-lg'>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 <div className='flex lg:w-[50%] w-full items-center'>
                     <div className='w-full border  rounded-l-lg'>
-                    <input type="text" placeholder='Enter you email' className='px-5 py-4 border-none w-full m:rounded-l-lg sm:rounded-r-none focus:outline-none focus:ring-2 focus:ring-orange-500' />
+                    <input type="text" placeholder='Enter you email' className='px-5 py-4 rounded-l-md border-none w-full lg:rounded-l-lg sm:rounded-r-none focus:outline-none focus:ring-2 focus:ring-orange-500' />
                     </div>
-                    <button className='bg-orange-600 rounded-r-lg text-white hover:bg-orange-700 px-10 py-4'>Subscribe</button>
+                    <button className='bg-orange-600 rounded-r-md lg:rounded-r-lg text-white hover:bg-orange-700 px-10 py-4'>Subscribe</button>
                 </div>        
             </div>
 
