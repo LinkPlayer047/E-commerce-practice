@@ -6,7 +6,7 @@ const Cta = () => {
         <div className='mycontainer'>
             <div className='grid grid-cols-1 lg:grid-cols-3 place-items-center justify-center gap-10 bg-gray-200 rounded-2xl mt-20'>
                 <div>
-                    <img src="/speakers.png" alt="" className='h-70' />
+                    <img src="/speakers.png" alt="" className='w-100 h-70' />
                 </div>
                 <div className='flex flex-col items-center justify-center text-center gap-5'>
                     <h2 className='text-3xl text-gray-800 font-semibold'>Level up your Gaming Experience</h2>
